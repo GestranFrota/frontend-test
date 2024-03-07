@@ -20,8 +20,7 @@ na pata src/app/atividades. Cada componente contem algo a se implementar;
 
 
 ## Envio da Resposta
-Ao terminar, o candidato deve enviar um Pull Request para o projeto, assim, vamos avaliar o código, 
-tento em vista os seguintes princípios : 
+Ao terminar, o candidato deve criar um repositório em seu github pessoal com a solução implementada e compartilhar o link.
 
 ### Conformidade com Padrões de Codificação:
   O código segue as diretrizes de estilo e padrões da equipe?
